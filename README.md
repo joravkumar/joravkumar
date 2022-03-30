@@ -2,7 +2,7 @@
 
 Hi, i'm [Jorav](https://jorav.dev), a passionate self-taught software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant applications. I take great care in the experience, architecture, and code quality of the things I build.
 
-<img align="right" alt="GIF" src="https://github.com/joravkumar/joravkumar/blob/master/developer.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/joravkumar/joravkumar/blob/main/developer.gif?raw=true" width="500" height="320" />
 
 - 💬 Ask me about anything, i am happy to help;
 
